@@ -1,0 +1,155 @@
+{
+  "original_files": [
+    {
+      "file": "1. Lecture I(1).pdf",
+      "pages": 32,
+      "sha256": "20cf784eb12025285cde836745b73ab5fbb18ef7e3355c03da589bb9ad27a407",
+      "status": "compiled"
+    },
+    {
+      "file": "2. Lecture II.pdf",
+      "pages": 28,
+      "sha256": "d44ac1431cebc5609fb0eea2fdedc9c9e905feedbd86595018e7b070ee48f0b2",
+      "status": "compiled"
+    },
+    {
+      "file": "3. Lecture III.pdf",
+      "pages": 32,
+      "sha256": "389aaef0d500b28ae8125dc4ff4af8bb9a7dad547c2ef792ac6edc489101cc5c",
+      "status": "compiled"
+    },
+    {
+      "file": "4. Lecture IV.pdf",
+      "pages": 36,
+      "sha256": "bcddebe9bf916152775068a874d935ea78c601e825125eca89e29bc3e7f5e147",
+      "status": "compiled"
+    },
+    {
+      "file": "5. Lecture V.pdf",
+      "pages": 60,
+      "sha256": "4b54e89d40d1efebebd251ad22ae4c4dbc1e76b61a5e47851f00a9b24980c9b8",
+      "status": "compiled"
+    },
+    {
+      "file": "6. Lecture VI.pdf",
+      "pages": 56,
+      "sha256": "d8928de033c58f93d3bffce051bc5c5efc0c4bd5d15596e7a92b99cbf3e344c5",
+      "status": "deferred_by_user"
+    }
+  ],
+  "compiled_pages": 188,
+  "deferred_pages": 56,
+  "chapters": 7,
+  "higher_view_topics": 2,
+  "exam_files": 5,
+  "chapter_characters": 54948,
+  "teaching_images": 4,
+  "issues": [],
+  "files": [
+    {
+      "file": "chapters\\01_金融市场收益与信息.md",
+      "characters": 7540,
+      "display_formulas": 20
+    },
+    {
+      "file": "chapters\\02_风险分散化与投资组合.md",
+      "characters": 7528,
+      "display_formulas": 35
+    },
+    {
+      "file": "chapters\\03_历史收益估计与统计推断.md",
+      "characters": 5925,
+      "display_formulas": 25
+    },
+    {
+      "file": "chapters\\04_市场回归CAPM与投资表现.md",
+      "characters": 7792,
+      "display_formulas": 37
+    },
+    {
+      "file": "chapters\\05_多因子排序与截面回归.md",
+      "characters": 5877,
+      "display_formulas": 27
+    },
+    {
+      "file": "chapters\\06_平稳过程ARMA与预测.md",
+      "characters": 11636,
+      "display_formulas": 50
+    },
+    {
+      "file": "chapters\\07_单位根伪回归与协整.md",
+      "characters": 8650,
+      "display_formulas": 33
+    },
+    {
+      "file": "higher_views\\01_信息条件期望与投影.md",
+      "characters": 1588,
+      "display_formulas": 6
+    },
+    {
+      "file": "higher_views\\02_线性滤波稳定性与共同趋势.md",
+      "characters": 1775,
+      "display_formulas": 5
+    },
+    {
+      "file": "exam\\易错概念辨析.md",
+      "characters": 1596,
+      "display_formulas": 0
+    },
+    {
+      "file": "exam\\核心概念与公式.md",
+      "characters": 2974,
+      "display_formulas": 23
+    },
+    {
+      "file": "exam\\经典题型与解法.md",
+      "characters": 1851,
+      "display_formulas": 4
+    },
+    {
+      "file": "exam\\考前速览.md",
+      "characters": 1056,
+      "display_formulas": 0
+    },
+    {
+      "file": "exam\\重要定理与证明.md",
+      "characters": 1842,
+      "display_formulas": 5
+    },
+    {
+      "file": "README.md",
+      "characters": 1340,
+      "display_formulas": 0
+    },
+    {
+      "file": "00_编纂凡例.md",
+      "characters": 1592,
+      "display_formulas": 0
+    },
+    {
+      "file": "01_课程总目与知识体系.md",
+      "characters": 1582,
+      "display_formulas": 1
+    },
+    {
+      "file": "02_课件覆盖索引.md",
+      "characters": 7988,
+      "display_formulas": 0
+    },
+    {
+      "file": "ECO6109_金融市场计量详细注疏_合订本.md",
+      "characters": 59260,
+      "display_formulas": 238
+    },
+    {
+      "file": "exercises\\伪回归实验与结果.md",
+      "characters": 1049,
+      "display_formulas": 0
+    },
+    {
+      "file": "sources\\逐页处理表.md",
+      "characters": 22879,
+      "display_formulas": 0
+    }
+  ]
+}

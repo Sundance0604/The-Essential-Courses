@@ -1,0 +1,10 @@
+{
+  "three_state_mean": 0.03599999999999999,
+  "three_state_variance": 0.005824,
+  "minimum_variance_weight_A": 0.7857142857142858,
+  "minimum_variance_sd": 0.13887301496588272,
+  "minimum_variance_mean": 0.08857142857142856,
+  "mean_se_60": 0.0051639777949432225,
+  "mean_t_60": 0.9682458365518543,
+  "mean_p_normal_60": 0.3329216080655659
+}

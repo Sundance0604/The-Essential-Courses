@@ -1,0 +1,38 @@
+[
+  {
+    "file": "1. Lecture I(1).pdf",
+    "pages": 32,
+    "sha256": "20cf784eb12025285cde836745b73ab5fbb18ef7e3355c03da589bb9ad27a407",
+    "status": "compiled"
+  },
+  {
+    "file": "2. Lecture II.pdf",
+    "pages": 28,
+    "sha256": "d44ac1431cebc5609fb0eea2fdedc9c9e905feedbd86595018e7b070ee48f0b2",
+    "status": "compiled"
+  },
+  {
+    "file": "3. Lecture III.pdf",
+    "pages": 32,
+    "sha256": "389aaef0d500b28ae8125dc4ff4af8bb9a7dad547c2ef792ac6edc489101cc5c",
+    "status": "compiled"
+  },
+  {
+    "file": "4. Lecture IV.pdf",
+    "pages": 36,
+    "sha256": "bcddebe9bf916152775068a874d935ea78c601e825125eca89e29bc3e7f5e147",
+    "status": "compiled"
+  },
+  {
+    "file": "5. Lecture V.pdf",
+    "pages": 60,
+    "sha256": "4b54e89d40d1efebebd251ad22ae4c4dbc1e76b61a5e47851f00a9b24980c9b8",
+    "status": "compiled"
+  },
+  {
+    "file": "6. Lecture VI.pdf",
+    "pages": 56,
+    "sha256": "d8928de033c58f93d3bffce051bc5c5efc0c4bd5d15596e7a92b99cbf3e344c5",
+    "status": "deferred_by_user"
+  }
+]

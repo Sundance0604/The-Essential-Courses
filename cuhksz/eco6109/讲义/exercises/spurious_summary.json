@@ -1,0 +1,27 @@
+{
+  "data_type": "artificial independent Gaussian random walks",
+  "rng": "numpy.random.default_rng(2026), PCG64; draw u then v each replication",
+  "T": 240,
+  "replications": 500,
+  "innovation_sd": 0.04,
+  "level_rejections": 428,
+  "difference_rejections": 17,
+  "level_rejection_rate": 0.856,
+  "difference_rejection_rate": 0.034,
+  "first_level": {
+    "intercept": -0.004188916572691909,
+    "slope": 0.40159829554000787,
+    "r2": 0.4242875242351343,
+    "se": 0.030323272714451913,
+    "t": 13.243896835337573,
+    "p": 2.2983416671787188e-30
+  },
+  "first_difference": {
+    "intercept": 0.0004620714969415195,
+    "slope": 0.03617755386517377,
+    "r2": 0.001430874325189846,
+    "se": 0.06194967636141914,
+    "t": 0.5839829356671883,
+    "p": 0.559784864636066
+  }
+}
